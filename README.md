@@ -1,6 +1,13 @@
 # parallel-image-filtering
 Trabalho da disciplina de Programação Paralela e Concorrente
 
+Feito por:
+ - Luis Durante
+ - Guilherme Rabelo
+ - Victor Moreno
+ - Vinicius Stein
+ - Mauricio Freire
+
 ## Como rodar
  - No terminal digite `make`
  - Logo em seguida, digite: `./output`
