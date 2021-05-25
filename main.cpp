@@ -1,5 +1,12 @@
-// TODO - quebrar o array para tentar paralelizar mais os filtros
-// TODO - Conseguir manipular as imagens para salvar dentro de uma pasta
+/*
+Feito por:
+
+    Luis Durante
+    Guilherme Rabelo
+    Victor Moreno
+    Vinicius Stein
+    Mauricio Freire
+*/
 
 #include "Image.h"
 #include <string>
