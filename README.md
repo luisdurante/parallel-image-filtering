@@ -9,6 +9,7 @@ Feito por:
  - Mauricio Freire
 
 ## Como rodar
+ - Crie uma pasta chamada `results` dentro da raiz do projeto
  - No terminal digite `make`
  - Logo em seguida, digite: `./output`
  - O resultado irá aparecer na pasta `results`
